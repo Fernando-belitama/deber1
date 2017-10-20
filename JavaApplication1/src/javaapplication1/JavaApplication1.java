@@ -20,6 +20,9 @@ public class JavaApplication1 {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "hola mundo");
+        JOptionPane.showMessageDialog(null, "hola mundo 1");
+        JOptionPane.showMessageDialog(null, "hola mundo 2");
+        JOptionPane.showMessageDialog(null, "hola mundo 3");
     }
     
 }
